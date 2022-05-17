@@ -173,9 +173,5 @@ class EstadiosTest {
 		assertFalse(estadioTest.getCubierta());
 }
 	
-	@Test
-	@DisplayName("Git-Entrega")
-	public void setGit-Entrega(){
-		
-	}
+
 }

@@ -11,6 +11,8 @@ import static java.lang.System.out;
  *
  */
 public class VistaAltasEstadios extends VistaMatrizEstadios {
+	
+	String entrada;
 	/**
 	 * @param sc Gestiona la salida por pantalla
 	 */
@@ -19,7 +21,7 @@ public class VistaAltasEstadios extends VistaMatrizEstadios {
 		super(sc);
 		this.sc=sc;
 	}
-	
+
 	/**
 	 * Carga la informacion proporcionada por los usuarios
 	 * @param estadio Objeto vacio a rellenar
