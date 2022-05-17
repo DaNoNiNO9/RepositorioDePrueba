@@ -172,5 +172,10 @@ class EstadiosTest {
 		assertEquals(null,estadioTest.getEntradas());
 		assertFalse(estadioTest.getCubierta());
 }
-
+	
+	@Test
+	@DisplayName("Git-Entrega")
+	public void setGit-Entrega(){
+		
+	}
 }
